@@ -23,5 +23,5 @@ as it is thats why we call it as ordered collection of Data.
 
 3.In List we can Store duplicate values.
 
-4. Lists are Mutable means once we declare the list we can modify it.
+4. Lists are Mutable, means once we declare the list we can modify it.
 '''
