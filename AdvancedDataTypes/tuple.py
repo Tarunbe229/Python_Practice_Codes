@@ -26,5 +26,5 @@ as it is thats why we call it as ordered collection of Data.
 
 3.In Tuple we can Store duplicate values.
 
-4. Tuples are Immutable, means once we declare the list we cannot modify it.
+4. Tuples are Immutable, means once we declare the tuple we cannot modify it.
 """
