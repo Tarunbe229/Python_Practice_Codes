@@ -1,6 +1,6 @@
 # todo sqaure of a given list
 li = [1, 2, 3, 4]
-ref = [i ** 2 for i in li] # list Comprhension
+ref = [i ** 2 for i in li] # list Comprehension
 print(ref) # [1, 4, 9, 16]
 
 # todo print list of even no.
